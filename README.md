@@ -1,3 +1,3 @@
 # collab-website
 
-website link: https://github.com/kenjinc/collab-website.git
+website link: https://kenjinc.github.io/collab-website/
