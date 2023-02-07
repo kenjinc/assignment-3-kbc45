@@ -25,11 +25,7 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-\<\<\<\<\<\<\< HEAD
-![](https://media.architecturaldigest.com/photos/60f99c2c0adf8cd1e3beca71/16:9/w_1935,h_1088,c_limit/Now%20You%20Drive%201.jpg)
-=======
 ![](https://upload.wikimedia.org/wikipedia/en/8/82/Lightning_McQueen.png)
-\>\>\>\>\>\>\> efa5605cef1b37037b6e9503c4b0038a42f54d4a
 
 ## Including Plots
 
