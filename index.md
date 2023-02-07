@@ -13,7 +13,7 @@ When you click the **Knit** button a document will be generated that
 includes both content as well as the output of any embedded R code
 chunks within the document. You can embed an R code chunk like this:
 
-![]https://media.architecturaldigest.com/photos/60f99c2c0adf8cd1e3beca71/16:9/w_1935,h_1088,c_limit/Now%20You%20Drive%201.jpg
+![](https://media.architecturaldigest.com/photos/60f99c2c0adf8cd1e3beca71/16:9/w_1935,h_1088,c_limit/Now%20You%20Drive%201.jpg)
 
 ``` r
 summary(cars)
