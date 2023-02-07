@@ -19,6 +19,8 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+![](https://media.architecturaldigest.com/photos/60f99c2c0adf8cd1e3beca71/16:9/w_1935,h_1088,c_limit/Now%20You%20Drive%201.jpg)
+
 ## Including Plots
 
 You can also embed plots, for example:
