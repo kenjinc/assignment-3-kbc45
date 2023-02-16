@@ -1,5 +1,5 @@
 ---
-title: "Our Website"
+title: "Collaborative Website"
 author: "Eli Robinson"
 date: "`r Sys.Date()`"
 output: github_document
@@ -9,25 +9,9 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## People
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+* Eli (https://github.com/eli-robinson)
+* Ken (https://github.com/kenjinc)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-
-![](https://upload.wikimedia.org/wikipedia/en/8/82/Lightning_McQueen.png)
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+![Fig 1. Here is an image.](https://www.nasa.gov/sites/default/files/thumbnails/image/ae3_westernhemisphere_geos_2019246_lrg.jpg)
