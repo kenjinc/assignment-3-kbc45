@@ -1,0 +1,16 @@
+---
+title: "Eli"
+author: "Eli Robinson"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Some places I have been
+* North America
+    + USA
+    + Canada
+    + Mexico
+    + Costa Rica
+* Europe
+    + France
+    + Switzerland
