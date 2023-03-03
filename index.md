@@ -1,7 +1,5 @@
 Collaborative Website
 ================
-Eli Robinson
-2023-03-03
 
 ## People
 
