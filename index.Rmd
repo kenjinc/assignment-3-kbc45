@@ -1,7 +1,5 @@
 ---
 title: "Collaborative Website"
-author: "Eli Robinson"
-date: "`r Sys.Date()`"
 output: github_document
 ---
 
